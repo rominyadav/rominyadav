@@ -28,4 +28,6 @@ body {
 .card-text {
   color: #7f8c8d;
 }
-
+.bold {
+	font-weight: bold;
+}
