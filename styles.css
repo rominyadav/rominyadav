@@ -1,5 +1,5 @@
 body {
-  background-color: #f2f2f2;
+  background-color: #000011;
 }
 
 .jumbotron {
@@ -10,6 +10,7 @@ body {
 .navbar {
   background-color: #34495e;
   color: #000000;
+  font-weight: itallic;
   font-weight: bold;
 }
 
@@ -18,16 +19,38 @@ body {
 }
 
 .card {
-  background-color: white;
+  background-color: #a59ead;
 }
 
 .card-title {
-  color: #34495e;
+  color: #7605f7;
 }
 
 .card-text {
-  color: #7f8c8d;
+  color: #ffffff;
+}
+
+.card-text1 {
+  color: #ffffff;
 }
 .bold {
 	font-weight: bold;
+}
+.image-left {
+	float: left;
+	}
+	
+.container	{
+    	background-color: #483d54;
+    	color: white;
+    	font-size: 18px;
+    }
+    
+.center {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   
+
 }
