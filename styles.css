@@ -54,3 +54,14 @@ body {
    
 
 }
+<style>
+  a.email:link, a.email:visited {
+    color: #ff0000;
+    text-decoration: none;
+  }
+  a.email:hover, a.email:active {
+    color: #0000ff;
+  }
+</style>
+<a class="email" href="mailto:rominyadavflat@gmail.com">yMail me.</a>
+
